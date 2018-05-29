@@ -1,0 +1,78 @@
+body {
+  //background-image: url("/images/cloudsbg.jpeg");
+  background-color: silver;
+  font-family: "Lucida Sans Unicode";
+}
+
+h1 {
+  text-align: center;
+}
+
+.main {
+
+}
+
+.box {
+  display: inline-block;
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.5);
+  width: 400px;
+  height: 150px;
+  margin: 15px;
+  background-color: grey;
+  border: 2px solid #000;
+  text-align: center;
+}
+
+.header {
+  color: #000;
+  font-size: 50px;
+}
+
+#city {
+  font-size: 35px;
+  color: #000;
+}
+
+#country {
+  font-size: 20px;
+  font-family: "Arial Black";
+  color: #000;
+}
+
+#temp {
+  font-size: 60px;
+  font-family: "Arial Black";
+  color: #000;
+}
+
+#tempUnit {
+  font-size: 45px;
+  font-family: "Arial Black";
+}
+
+#desc {
+  font-size: 20px;
+  font-family: "Arial Black";
+  color: #000;
+}
+
+#icon {
+
+}
+
+#pressure {
+  font-size: 20px;
+  font-family: "Arial Black";
+}
+
+#humidity {
+  font-size: 20px;
+  font-family: "Arial Black";
+  color: #000;
+}
+
+#high-low {
+  font-size: 20px;
+  font-family: "Arial Black";
+  color: #000;
+}
